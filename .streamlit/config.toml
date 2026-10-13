@@ -5,10 +5,3 @@ backgroundColor = "#e5ebf8" #hintergrund ganz
 secondaryBackgroundColor = "#e0e4eb"
 textColor = "#020618"
 font = "verdana"
-
-base = "dark"
-primaryColor = "#d8e2ef" #tabs
-backgroundColor = "#030c21" #hintergrund ganz
-secondaryBackgroundColor = "#e0e4eb"
-textColor = "#f1f2f9"
-font = "verdana"
