@@ -3,5 +3,5 @@ base = "light"
 primaryColor = "#20416e" #tabs
 backgroundColor = "#f0f3fa" #hintergrund ganz
 secondaryBackgroundColor = "#f1f2f4"
-textColor = "#20416e"
+textColor = "#1A1A1A"
 font = "verdana"
