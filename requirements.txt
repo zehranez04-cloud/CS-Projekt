@@ -1,3 +1,6 @@
 streamlit
 pandas
 random
+
+#alle benutzten Libraries müssen hier aufgelistet werden, damit die Dozenten diese herunterladen können, bevor sie die App starten
+#ansonsten wird die App nicht funktionieren
