@@ -9,6 +9,6 @@ tab1, tab2 = st.tabs(["Tab 1", "Tab 2"])
 tab1.write("Inhalt von Tab 1")
 tab2.write("Inhalt von Tab 2")
 
-st.button("Klick mich!")
+st.button("Click!")
 
 # webseite:testingcs.streamlit.app
