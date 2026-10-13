@@ -1,7 +1,7 @@
 [theme]
 base = "light" 
-primaryColor = "#7aabf0" #tabs
-backgroundColor = "#e5ebf8" #hintergrund ganz
-secondaryBackgroundColor = "#e0e4eb"
-textColor = "#020618"
+primaryColor = "#20416e" #tabs
+backgroundColor = "#f0f3fa" #hintergrund ganz
+secondaryBackgroundColor = "#f1f2f4"
+textColor = "#20416e"
 font = "verdana"
