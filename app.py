@@ -1,5 +1,5 @@
 import streamlit as st
-st.write("Hello world")
+st.write("Hello")
 st.write("Das ist der Test für die Streamlit App")
 
 st.header ("Test für die Streamlit App")
