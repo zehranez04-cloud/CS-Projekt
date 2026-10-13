@@ -3,6 +3,6 @@ base = "light"
 primaryColor = "#2c69bd"
 backgroundColor = "#dde6f7"
 secondaryBackgroundColor = "#e0e4eb"
-textColor = "#152363"
-font = "sans serif"
+textColor = "#020618"
+font = "verdana"
 
